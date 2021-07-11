@@ -1,4 +1,4 @@
-package com.exemple.hrworker;
+package com.ms.hrworker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
